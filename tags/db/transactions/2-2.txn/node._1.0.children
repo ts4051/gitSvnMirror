@@ -1,0 +1,37 @@
+END
+K 14
+post-lock.tmpl
+V 14
+file _3.0.t2-2
+K 16
+post-commit.tmpl
+V 14
+file _6.0.t2-2
+K 15
+pre-commit.tmpl
+V 14
+file _8.0.t2-2
+K 13
+pre-lock.tmpl
+V 14
+file _a.0.t2-2
+K 16
+post-unlock.tmpl
+V 14
+file _c.0.t2-2
+K 15
+pre-unlock.tmpl
+V 14
+file _e.0.t2-2
+K 24
+post-revprop-change.tmpl
+V 14
+file _g.0.t2-2
+K 17
+start-commit.tmpl
+V 14
+file _i.0.t2-2
+K 23
+pre-revprop-change.tmpl
+V 14
+file _k.0.t2-2
